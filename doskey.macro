@@ -1,0 +1,3 @@
+a=.env\Scripts\activate
+
+;= doskey /macrofile=doskey.macro
